@@ -8,7 +8,5 @@ Currently, I study at the Federal Institute of São Paulo, in the graduation of 
 
 <h2> ◦ My skills 💻 </h2>
 
-|
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-          |   |
+|<i class="devicon-cplusplus-plain"></i>|   |
 |---|---|
