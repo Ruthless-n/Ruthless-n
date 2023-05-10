@@ -7,7 +7,4 @@
 Currently, I study at the Federal Institute of São Paulo, in the graduation of Systems Analysis and Development.</p>
 
 <h2> ◦ My skills 💻 </h2>
-
-
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
+<img width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
