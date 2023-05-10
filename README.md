@@ -3,5 +3,5 @@
    
 <h1 align="center"> Hi, I'm Ruth Novais!</h1>
 
-I just started my career as a software developer.
-Currently, I study at the Federal Institute of São Paulo, in the graduation of Systems Analysis and Development.
+<p align="center">I just started my career as a software developer.
+Currently, I study at the Federal Institute of São Paulo, in the graduation of Systems Analysis and Development.</p>
