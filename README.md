@@ -8,5 +8,6 @@ Currently, I study at the Federal Institute of São Paulo, in the graduation of 
 
 <h2> ◦ My skills 💻 </h2>
 
-| <i class="devicon-cplusplus-plain"></i> |   |
-|---|---|
+
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
