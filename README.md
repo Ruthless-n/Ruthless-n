@@ -6,4 +6,4 @@
 <p align="center">I just started my career as a software developer.
 Currently, I study at the Federal Institute of São Paulo, in the graduation of Systems Analysis and Development.</p>
 
-+ My skills
+<h2> + My skills </h2>
