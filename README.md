@@ -16,6 +16,8 @@ Currently, I study at the Federal Institute of São Paulo, in the graduation of 
     </tr>
 </table>
 
+<img src="https://wallpapers.com/wallpapers/room-4k-lo-fi-0jho23bd2elrjiy3.html"/>
+
 <h2 align="center"> ◦ Currently Learning 🖋 </h2>
 
 <table align="center">
