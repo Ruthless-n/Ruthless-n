@@ -1,4 +1,4 @@
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg](https://i.pinimg.com/originals/4a/fd/e9/4afde9596bfe30a1bb56a556f1ffefa6.gif)"/>
+<img src="https://i.pinimg.com/originals/4a/fd/e9/4afde9596bfe30a1bb56a556f1ffefa6.gif"/>
 
    
 <h1 align="center"> Hi, I'm Ruth Novais!</h1>
