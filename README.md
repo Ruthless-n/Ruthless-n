@@ -36,5 +36,8 @@ Currently, I study at the Federal Institute of São Paulo, in the graduation of 
 </div>
 
 
+
+<h2 align="center"> Thank you for visiting my profile. ❤️ </h2>
+
 ![Visitor Count](https://profile-counter.glitch.me/Ruthless-n/count.svg)
 
