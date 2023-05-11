@@ -16,7 +16,7 @@ Currently, I study at the Federal Institute of São Paulo, in the graduation of 
     </tr>
 </table>
 
-<img width="100" src="https://64.media.tumblr.com/d0656ed01e4859cf2206b222a8e6e669/846bd7dddadb664b-af/s1280x1920/1d8fa13af5fd73565dd3bc4358e24e71041555ef.gif"/>
+<img width="1000" src="https://64.media.tumblr.com/d0656ed01e4859cf2206b222a8e6e669/846bd7dddadb664b-af/s1280x1920/1d8fa13af5fd73565dd3bc4358e24e71041555ef.gif"/>
 
 <h2 align="center"> ◦ Currently Learning 🖋 </h2>
 
