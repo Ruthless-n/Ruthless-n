@@ -6,7 +6,7 @@
 <p align="center">I just started my career as a software developer.
 Currently, I study at the Federal Institute of São Paulo, in the graduation of Systems Analysis and Development.</p>
 
-<h2 align="center"> ◦ My skills 💻 </h2>
+<h2 align="center"> ● My skills 💻 </h2>
 
 <table align="center">
     <tr>
@@ -15,7 +15,7 @@ Currently, I study at the Federal Institute of São Paulo, in the graduation of 
     </tr>
 </table>
 
-<h2 align="center"> ◦ Currently Learning 🖋 </h2>
+<h2 align="center"> ● Currently Learning 🖋 </h2>
 
 <table align="center">
     <tr>
@@ -31,7 +31,7 @@ Currently, I study at the Federal Institute of São Paulo, in the graduation of 
    <img width="700" src="https://64.media.tumblr.com/d0656ed01e4859cf2206b222a8e6e669/846bd7dddadb664b-af/s1280x1920/1d8fa13af5fd73565dd3bc4358e24e71041555ef.gif"/>
 </p>
 
-<h2 align="center"> ◦ Contact me! ✉️ </h2>
+<h2 align="center"> ● Contact me! ✉️ </h2>
 
 <div align="center">
 <a href="https://instagram.com/_ruthlessn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
