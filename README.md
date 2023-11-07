@@ -10,8 +10,8 @@ Currently, I study at the Federal Institute of São Paulo, in the graduation of 
 
 <table align="center">
     <tr>
-      <td><img width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></td>
-      <td><img width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></td>
+      <td><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></td>
+      <td><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></td>
     </tr>
 </table>
 
@@ -20,15 +20,15 @@ Currently, I study at the Federal Institute of São Paulo, in the graduation of 
 <table align="center">
     <tr>
       <td><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></td>
-      <td><img width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></td>
-      <td><img width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></td>
-      <td><img width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></td>
-      <td><img width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /></td>
+      <td><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></td>
+      <td><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></td>
+      <td><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></td>
+      <td><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /></td>
     </tr>
 </table>
 
 <p align="center">
-   <img width="700" src="https://64.media.tumblr.com/d0656ed01e4859cf2206b222a8e6e669/846bd7dddadb664b-af/s1280x1920/1d8fa13af5fd73565dd3bc4358e24e71041555ef.gif"/>
+   <img width="500" src="https://64.media.tumblr.com/d0656ed01e4859cf2206b222a8e6e669/846bd7dddadb664b-af/s1280x1920/1d8fa13af5fd73565dd3bc4358e24e71041555ef.gif"/>
 </p>
 
 <h2 align="center"> ● Contact me! ✉️ </h2>
