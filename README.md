@@ -4,7 +4,7 @@
 <h1 align="center"> Hi, I'm Ruth Novais!</h1>
 
 <p align="center">I just started my career as a software developer.
-Currently, I study at the Federal Institute of São Paulo, in the graduation of Systems Analysis and Development. And I'm currently looking for a job as Developer Junior</p>
+Currently, I'm graduated at the Federal Institute of São Paulo, in the graduation of Systems Analysis and Development. And I'm currently looking for a job as Developer Junior</p>
 
 <h2 align="center"> ● My skills 💻 </h2>
 <table align="center">
