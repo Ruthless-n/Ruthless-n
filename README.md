@@ -52,5 +52,3 @@ Currently, I'm graduated at the Federal Institute of São Paulo, in the graduati
 
 <h2 align="center"> Thank you for visiting my profile. ❤️ </h2>
 
-![Visitor Count](https://profile-counter.glitch.me/Ruthless-n/count.svg)
-
